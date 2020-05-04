@@ -1,24 +1,31 @@
-# README
+# Member's only
+This project show you a basic structure of sign up log in log out remember the user filter content adn conect different users 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Requirements
 
-Things you may want to cover:
+- Ruby > 2.6
+- Ruby on Rails > 5.2
+- Rubocop
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby
+- Ruby on Rails
 
-* Configuration
+## Author
 
-* Database creation
+👤 **Angel Benjamin Cussi Callisaya**
 
-* Database initialization
+- Github: [@abcussi](https://github.com/abcussi)
+- Twitter: [@thecussi](https://twitter.com/thecussi)
+- Linkedin: [angel-cussi](https://www.linkedin.com/in/angel-cussi-1b2310174/)
 
-* How to run the test suite
+## 🤝 Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributions, issues and feature requests are welcome!
 
-* Deployment instructions
+Feel free to check the [issues page](issues/).
 
-* ...
+## Show your support
+
+Give a ⭐️ if you like this project!

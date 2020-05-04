@@ -7,9 +7,10 @@ class SessionsController < ApplicationController
       log_in_user(user)
       remember(user)
       redirect_to posts_path
+    else
+      flash.now[:danger] = 'Invalid email/password combination'
+      render 'new'
     end
-    flash.now[:danger] = 'Invalid email/password combination'
-    render 'new'
   end
 
   def delete
